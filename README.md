@@ -2,7 +2,7 @@ What Markdown is?
 * lightweight markup language
 * can be converted into HTML and other formats
 * it's main purpose is readability and ease of use
-Markdown is used for README files on Github, etc.
+* Markdown is used for README files on Github, etc.
 
 <!-- HEADINGS -->
 # Heading 1

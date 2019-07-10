@@ -28,10 +28,16 @@ __This text__ is strong
 ___
 
 <!-- Asterisk display -->
-\*This text\* contains asterisk
+\*This text\* contains asterisks
 
+<!-- Blockquote -->
+> This is a quote
 
+<!-- Links -->
+[My Codewars profile](https://www.codewars.com/users/LarisaOvchinnikova)
 
+[My LinkedLn profile](https://www.linkedin.com/in/larisa-ovchinnikova-525a33187/
+"LinkedLn - my page")
 
 
 

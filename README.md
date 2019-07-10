@@ -2,8 +2,8 @@ What Markdown is?
 * lightweight markup language
 * can be converted into HTML and other formats
 * it's main purpose is readability and ease of use
-
 Markdown is used for README files on Github, etc.
+
 <!-- HEADINGS -->
 # Heading 1
 ## Heading 2
@@ -39,10 +39,26 @@ ___
 [My LinkedLn profile](https://www.linkedin.com/in/larisa-ovchinnikova-525a33187/
 "LinkedLn - my page")
 
-
-
 <!-- LISTS -->
+<!-- UL -->
+* Item 1
+* Item 2
+* Item 3
+  * Nested Item 1
+  * Nested Item 2
 
+<!-- OL -->
+1. Item 1  
+1. Item 2
+1. Item 3
+
+<!-- Inline Code Block -->
+`<p>This is a paragraph </p>`
+
+<!-- Image -->
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github markdown -->
 
 
 

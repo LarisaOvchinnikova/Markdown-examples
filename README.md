@@ -59,6 +59,17 @@ ___
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- Github markdown -->
+<!-- Code Blocks -->
+```Javascript
+function sum(a, b){
+return  a + b ;
+}
+```
 
+<!-- Tables -->
+|Name     |Email          |
+|---------|---------------|
+|Jonh Doe |jonh@gmail.com |
+|Jonh Doe |jonh@gmail.com |
 
-
+<!-- Task Lists -->
